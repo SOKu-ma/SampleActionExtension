@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SampleActionExtension
 //
-//  Created by 太田修平 on 2022/10/16.
+//  Created by Shuhei Ota on 2022/10/16.
 //
 
 import UIKit
